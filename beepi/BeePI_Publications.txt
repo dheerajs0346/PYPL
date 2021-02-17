@@ -60,7 +60,7 @@ vector machines accurately classify audio Samples in audio beehive monitoring,�
 Abstract published in Proceedings of 2018 American Bee Research Conference,
 Jan. 11-12, 2018, Reno, NV, USA.
 
-13. V. Kulyukin, S. Mukherjee, P. Vats, P. A. Tiwari, Y. B. Burkatovskay.
+13. V. Kulyukin, S. Mukherjee, P. Vats, P. A. Tiwari, Y. B. Burkatovskaya.
 “Classification of motion regions with convolutional networks, support
 vector machines, and random forests in video-based analysis of bee
 traffic.” The 12-th International Conference on Computer Data
