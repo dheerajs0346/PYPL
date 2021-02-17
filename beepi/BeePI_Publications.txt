@@ -1,0 +1,76 @@
+Selected Publications and References on the BeePI Project
+
+1. S. Mukherjee, V. Kulyukin. "Application of digital particle image velocimetry
+to insect motion: measurement of incoming, outgoing, and lateral honeybee traffic."
+Applied Sciences, 2020, 10(6), 2042; https://doi.org/10.3390/app10062042.
+
+2. V. Kulyukin, S. Mukherjee. "On video analysis of omnidirectional bee traffic:
+counting bee motions with motion detection and image classification."
+Applied Sciences, 2019, 9(18), 3743; https://doi.org/10.3390/app9183743.
+
+3. V. Kulyukin, S. Mukherjee, P. Amlathe. "Toward audio beehive monitoring:
+deep learning vs. standard machine learning in classifying beehive audio samples."
+Applied Sciences, 2018, 8(9), 1573; https://doi.org/10.3390/app8091573.
+
+4. V. Kulyukin, S. Mukherjee. "Computer vision in electronic beehive monitoring:
+in situ vision-based bee counting on langstroth hive landing pads."
+Graph. Vis. Image Process. GVIP 2017, 17, pp. 25–37.
+
+5. V. Kulyukin, M. Putnam, S. Reka. "Digitizing buzzing signals into A440 piano
+note sequences and estimating forager traffic levels from images in solar-powered,
+electronic beehive monitoring." In Lecture Notes in Engineering and Computer Science,
+Proceedings of the International MultiConference of Engineers and Computer Scientists,
+Hong Kong, pp. 16–18 March 2016; Newswood Limited: Hong Kong, China, 2016;
+Vol. 1, pp. 82–87. Best Paper Award. Available at
+http://www.iaeng.org/publication/IMECS2016/IMECS2016_pp82-87.pdf.
+
+6. V. Kulyukin, Reka, S. "Toward sustainable electronic beehive monitoring: Algorithms
+for omnidirectional bee counting from images and harmonic analysis of buzzing signals."
+Engineering Letters, 2016, 24, 317–327.
+Available at http://www.engineeringletters.com/issues_v24/issue_3/EL_24_3_12.pdf.
+
+7. V. Kulyukin, S. Mukherjee. "A Two-tier method for counting omnidirectional bee
+motions in videos." Abstract in Proceedings of the 2020 American Bee Research
+Conference (ABRC). Jan. 9 – 10, 2020, Schaumburg, IL, USA. Research paper presented
+by S. Mukherjee. Insects 2020, 11(6), 362; DOI: doi.org/10.3390/insects11060362.
+
+8. V. Kulyukin, S. Mukherjee. "Work in progress: using particle image
+velocimetry to estimate incoming, outgoing, and lateral bee traffic flows
+in videos." Abstract in Proceedings of the 2020 American Bee Research
+Conference (ABRC). Jan. 9 – 10, 2020, Schaumburg, IL, USA. Poster pre-
+sented by S. Mukherjee.
+
+9. V. Kulyukin, S. Mukerhee, Y. B. Burkatovskaya. "Classification of
+audio samples by convolutional networks in audio beehive monitoring."
+Tomsk State University Journal of Control and Computer Science, vol. 45,
+pp. 68 – 75, Dec. 2018; DOI: doi.org/10.17223/19988605/45/8.
+
+10. V. Kulyukin "Honey bee recognition in video bee traffic monitoring:
+convolutional neural networks vs. random forests,” Abstract published in
+Proceedings of the ESA, ESC, and ESBC Joint Annual Meeting, Nov. 14,
+2018, Vancouver, BC, Canada. 
+
+11. V. Kulyukin, A. Tiwari. "A Convolutional neural network for recognizing
+bees in video analysis of forager traffic,” Abstract published
+in Proceedings of 2018 American Bee Research Conference (ABRC), Jan. 11-
+12, 2018, Reno, NV, USA. 
+
+12. V. Kulyukin, P. Amlathe. "Regression, k-nearest neighbor, and support
+vector machines accurately classify audio Samples in audio beehive monitoring,”
+Abstract published in Proceedings of 2018 American Bee Research Conference,
+Jan. 11-12, 2018, Reno, NV, USA.
+
+13. V. Kulyukin, S. Mukherjee, P. Vats, P. A. Tiwari, Y. B. Burkatovskay.
+“Classification of motion regions with convolutional networks, support
+vector machines, and random forests in video-based analysis of bee
+traffic.” The 12-th International Conference on Computer Data
+Analysis and Modeling (CDAM 2019), Sep. 18–22, 2019, Minsk, Belarus.
+
+14. V. Kulyukin. "BeePi: A Multisensor Electronic Beehive Monitor."
+Avail. at https://www.kickstarter.com/projects/970162847/beepi-a-multisensor-electronic-beehive-monitor.
+
+15. V. Kulyukin. "BeePi: Honeybees Meet AI: Stage 2."
+Avail. at https://www.kickstarter.com/projects/beepihoneybeesmeetai/beepi-honeybees-meet-ai-stage-2.
+
+
+
