@@ -24,7 +24,7 @@ Hong Kong, pp. 16–18 March 2016; Newswood Limited: Hong Kong, China, 2016;
 Vol. 1, pp. 82–87. Best Paper Award. Available at
 http://www.iaeng.org/publication/IMECS2016/IMECS2016_pp82-87.pdf.
 
-6. V. Kulyukin, Reka, S. "Toward sustainable electronic beehive monitoring: Algorithms
+6. V. Kulyukin, S. Reka. "Toward sustainable electronic beehive monitoring: Algorithms
 for omnidirectional bee counting from images and harmonic analysis of buzzing signals."
 Engineering Letters, 2016, 24, 317–327.
 Available at http://www.engineeringletters.com/issues_v24/issue_3/EL_24_3_12.pdf.
@@ -45,7 +45,7 @@ audio samples by convolutional networks in audio beehive monitoring."
 Tomsk State University Journal of Control and Computer Science, vol. 45,
 pp. 68 – 75, Dec. 2018; DOI: doi.org/10.17223/19988605/45/8.
 
-10. V. Kulyukin "Honey bee recognition in video bee traffic monitoring:
+10. V. Kulyukin. "Honey bee recognition in video bee traffic monitoring:
 convolutional neural networks vs. random forests,” Abstract published in
 Proceedings of the ESA, ESC, and ESBC Joint Annual Meeting, Nov. 14,
 2018, Vancouver, BC, Canada. 
@@ -60,7 +60,7 @@ vector machines accurately classify audio Samples in audio beehive monitoring,�
 Abstract published in Proceedings of 2018 American Bee Research Conference,
 Jan. 11-12, 2018, Reno, NV, USA.
 
-13. V. Kulyukin, S. Mukherjee, P. Vats, P. A. Tiwari, Y. B. Burkatovskaya.
+13. V. Kulyukin, S. Mukherjee, P. Vats, A. Tiwari, Y. B. Burkatovskaya.
 “Classification of motion regions with convolutional networks, support
 vector machines, and random forests in video-based analysis of bee
 traffic.” The 12-th International Conference on Computer Data
